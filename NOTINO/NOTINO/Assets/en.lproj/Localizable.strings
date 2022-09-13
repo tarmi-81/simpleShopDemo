@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  NOTINO
+
+  Created by Jozef Gmuca on 05/09/2022.
+  
+*/
+// we have only slovak translation so we used it
+"items_list_title" = "Produkty";
+"price_from" = "od ";
+"button_in_basket" = "V košíku";
+"button_to_basket" = "Do košíku";
